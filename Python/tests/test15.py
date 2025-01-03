@@ -16,3 +16,4 @@ elif Operator=='%':
         print("Result of",x,"%",y, "is = ",x/y)
 else:
     print("Hehehe You are using wronggg operattor")
+
